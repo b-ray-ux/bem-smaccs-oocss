@@ -1,0 +1,110 @@
+/* Base */
+html, body {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+}
+* {
+    box-sizing: border-box;
+}
+h1,h2,h3,h4,h5,h6 {
+    margin-top: 0;
+    text-transform: capitalize;
+}
+ul, p {
+    margin: 0;
+}
+p {
+    line-height: 1.5;
+}
+a {
+    text-decoration: none;
+    transition: opacity .15s ease-in-out;
+    font-weight: 600;
+}
+a:hover{
+    opacity: .70;
+}
+img {
+    width: 100%;
+}
+/* Layout */
+.container {
+    margin: 0 auto;
+    padding: 0 30px;
+    max-width: 1200px;
+}
+.nav {
+    margin-bottom: 90px;
+}
+.nav__list {
+    margin-bottom: 90px;
+}
+.nav__list-item {
+    margin-bottom: 90px;
+}
+section {
+    margin-bottom: 90px;
+}
+.learn_section {
+    margin-bottom: 90px; 
+}
+.learn_row {
+    margin-bottom: 90px;  
+}
+.learn_col {
+    margin-bottom: 90px; 
+}
+.students_section {
+    margin-bottom: 90px;  
+}
+article {
+    margin-bottom: 90px; 
+}
+.meet_article {
+    margin-bottom: 90px; 
+}
+.team_advisors {
+    margin-bottom: 90px;
+}
+.team_advisors_row{
+    margin-bottom: 90px;
+}
+.team_advisors_col {
+    margin-bottom: 90px;
+}
+footer {
+    margin-bottom: 90px;
+}
+.chat_footer {
+    margin-bottom: 90px;
+}
+/* Blocks */
+
+.header {
+    margin-bottom: 90px; 
+}
+.about__heading {
+    margin-bottom: 90px; 
+}
+.first_video {
+    margin-bottom: 90px; 
+}
+.quotes {
+    margin-bottom: 90px;  
+}
+.courses {
+    margin-bottom: 90px; 
+}
+.our_story {
+    margin-bottom: 90px; 
+}
+.boxes {
+    margin-bottom: 90px;  
+}
+.chat_form {
+    margin-bottom: 90px; 
+}
